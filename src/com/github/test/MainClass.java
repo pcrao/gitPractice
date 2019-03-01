@@ -15,10 +15,7 @@ public class MainClass {
 	
 	public void init() {
 		
-		String initParam="";
-		String value ="";
-		
-		String name = "";
+		//This is modified for testing pull request demo
 	}
 
 }
