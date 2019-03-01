@@ -20,5 +20,9 @@ public class MainClass {
 		
 		String name = "Poorna Chandra Rao Bellam";
 	}
+	
+	public void remove(){
+	//Method to remove all the unnecessary values from the application	
+	}
 
 }
