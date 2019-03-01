@@ -24,5 +24,8 @@ public class MainClass {
 	public void remove(){
 	//Method to remove all the unnecessary values from the application	
 	}
-
+	public void conflict(){
+	String "This file should conflict";
+		String "This line should conflict";
+	}
 }
