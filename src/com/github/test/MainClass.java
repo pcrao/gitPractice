@@ -12,5 +12,13 @@ public class MainClass {
 		System.out.println(" Body Text ");
 		System.out.println(" === END === ");
 	}
+	
+	public void init() {
+		
+		String initParam="";
+		String value ="";
+		
+		String name = "";
+	}
 
 }
