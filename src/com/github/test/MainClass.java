@@ -15,10 +15,10 @@ public class MainClass {
 	
 	public void init() {
 		
-		String initParam="";
-		String value ="";
+		String initParam="load";
+		String value ="1";
 		
-		String name = "";
+		String name = "Poorna Chandra Rao Bellam";
 	}
 
 }
