@@ -15,17 +15,10 @@ public class MainClass {
 	
 	public void init() {
 		
-		String initParam="load";
-		String value ="1";
+		String initParam="";
+		String value ="";
 		
-		String name = "Poorna Chandra Rao Bellam";
+		String name = "";
 	}
-	
-	public void remove(){
-	//Method to remove all the unnecessary values from the application	
-	}
-	public void conflict(){
-	String "This file should conflict";
-		String "This line should conflict";
-	}
+
 }
