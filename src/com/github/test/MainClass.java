@@ -18,6 +18,10 @@ public class MainClass {
 		//This is modified for testing pull request demo
 		//amar
 	}
+	
+	public int removeMethod() {
+		return 0;
+	}
 
 }
 
